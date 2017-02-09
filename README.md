@@ -1,10 +1,10 @@
-= Documents Buildout
+# Documents Buildout
 
 A Plone buildout with DocumentCloud viewer and annotation support
 
-= Requirements
+# Requirements
 
-== Ubuntu/Debian Linux
+## Ubuntu/Debian Linux
  
  * python 2.7
  * graphicsmagick
@@ -20,7 +20,7 @@ A Plone buildout with DocumentCloud viewer and annotation support
 
 For docsplit: gem install docsplit
 
-= Running Debug mode
+# Running Debug mode
 
  * bin/zeoserver start #zeo database
  * bin/instance fg  #zope instance
