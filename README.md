@@ -6,14 +6,12 @@ A Plone buildout with DocumentCloud viewer and annotation support
 
 ## Ubuntu/Debian Linux
  
- * python 2.7
  * graphicsmagick
  * tesseract-ocr
  * build-essential
  * python-dev
 
-
-= Setup
+# Setup
 
  * setup virtualenv with python 2.7
  * <virtualenv>/bin/python bootstrap-buildout.py
@@ -24,6 +22,5 @@ For docsplit: gem install docsplit
 
  * bin/zeoserver start #zeo database
  * bin/instance fg  #zope instance
- * bin/worker fg    #document coverter instance
-
+ * bin/pcelery worker etc/parts/instance/etc/zope.conf
 
