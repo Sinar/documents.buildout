@@ -1,0 +1,13 @@
+build-essential
+python-dev
+libxml2-dev
+libxslt1-dev
+libpng16-dev
+libjpeg62-dev
+libgif-dev
+libtiff5-dev
+libreoffice
+graphicsmagick
+tesseract-ocr
+ruby
+python-virtualenv
