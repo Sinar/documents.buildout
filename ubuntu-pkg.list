@@ -1,5 +1,5 @@
 build-essential
-python-dev
+python3-dev
 libxml2-dev
 libxslt1-dev
 libpng16-dev
