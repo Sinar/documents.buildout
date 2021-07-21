@@ -2,12 +2,14 @@ build-essential
 python-dev
 libxml2-dev
 libxslt1-dev
-libpng16-dev
-libjpeg62-dev
+libpng-dev
+libjpeg-dev
 libgif-dev
 libtiff5-dev
 libreoffice
 graphicsmagick
 tesseract-ocr
-ruby
 python-virtualenv
+poppler-tools
+qpdf
+clamav-daemon
