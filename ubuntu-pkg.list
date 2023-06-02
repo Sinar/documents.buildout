@@ -1,0 +1,15 @@
+build-essential
+python-dev
+libxml2-dev
+libxslt1-dev
+libpng-dev
+libjpeg-dev
+libgif-dev
+libtiff5-dev
+libreoffice
+graphicsmagick
+tesseract-ocr
+python-virtualenv
+poppler-tools
+qpdf
+clamav-daemon
